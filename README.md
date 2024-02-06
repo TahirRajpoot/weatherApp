@@ -5,7 +5,6 @@ This is a simple web application that displays weather information for a given l
 ## Installation
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/weather-app.git
-2.Navigate to the project directory:
-cd weather-app
+git clone [https://github.com/your-username/weather-app.git](https://github.com/TahirRajpoot/weatherApp.git)
+2.Navigate to the project directory.
 
