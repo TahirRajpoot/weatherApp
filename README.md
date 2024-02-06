@@ -20,6 +20,13 @@ git clone [https://github.com/your-username/weather-app.git](https://github.com/
 
 4. Once the data is retrieved, it will be displayed on the page, showing the temperature, description, humidity, wind speed, and cloudiness for the selected city.
 
+## Notes
+1. This project uses the OpenWeatherMap API to fetch weather data. You'll need to sign up for an API key at OpenWeatherMap and replace 'Your-Api-Key' in script.js with your actual API key.
+
+2. Make sure you have an active internet connection to fetch weather data from the API.
+
+3. This project demonstrates the use of AJAX to fetch data from an external API asynchronously without having to reload the entire web page.
+
 
 
 
