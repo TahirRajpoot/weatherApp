@@ -7,9 +7,9 @@ This is a simple web application that displays weather information for a given l
 1. Clone the repository to your local machine:
 git clone [https://github.com/your-username/weather-app.git](https://github.com/TahirRajpoot/weatherApp.git)
 
-2.Navigate to the project directory.
+2. Navigate to the project directory.
 
-3.Open index.html in your preferred web browser to view the weather app.
+3. Open index.html in your preferred web browser to view the weather app.
 
 ## Usage
 1. Upon opening the app, you'll see a search box where you can enter the name of the city whose weather you want to check.
